@@ -2,8 +2,11 @@
 
 Currently freelancing, working with an Italian startup and focusing on refactoring/dockerizing backend services and fully rewriting the frontend in React/Next.js with Jest and Playwright.
 
-On the side I'm also working on Jam, an app for musicians:
+On the side I'm working on Jam, an app for musicians:
 https://jam-app.vercel.app/
+
+I'm also publishing some Javascript related content here:
+https://www.youtube.com/@mykdoingthings/shorts
 
 I am naturally a generalist and technology-agnostic, I just want to build stuff that's useful to other humans.
 
